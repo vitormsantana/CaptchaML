@@ -11,3 +11,7 @@ Primeiro Passo: Download dos Captchas e estruturação dos arquivos de imagem.
 ![image](https://user-images.githubusercontent.com/55901438/110069193-1224e780-7d56-11eb-91b8-327c3ef3c006.png)
 
 598 = número do arquivo captcha / F - letra da imagem, renomeada após o programa ter separado as letras. O programa separa as letras e gera o arquivo com o número do captcha, e à mão eu inseri a letra "f" após o "_". O mesmo se repete para os outros arquivos / letras.  
+
+![image](https://user-images.githubusercontent.com/55901438/110070675-3df59c80-7d59-11eb-9bc4-30a3f0e08932.png)
+
+
