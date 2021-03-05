@@ -17,4 +17,5 @@ Ferramentas utilizadas: Jupyter notebook (python), Anaconda Prompt, SKLearn, Num
 
   Segundo Passo: Um outro programa em python identifica o caractere inserido no final de cada arquvo do repositório do primeiro passo e as copia para uma nova pasta identificada com o caractere.
   
-  ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/55901438/110072869-3506ca00-7d5d-11eb-97ac-dea98412ec71.png)
+
