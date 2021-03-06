@@ -1,7 +1,7 @@
 # CaptchaML
 
 Esse conjunto de ferramentas foi criado com o objetivo de decifrar 6 caracteres de um Captcha. Os 6 caracteres podem variar de 0 a 9 e todas as letras do alfabeto.
-Através da cração de uma Inteligência Artificial e seu enriquecimento, utilizando Machine Learning, o foi possivel obter um acerto de cerca de 88% das letras.
+Através da cração de uma Inteligência Artificial e seu enriquecimento, utilizando Machine Learning, foi possivel obter um acerto de cerca de 88% das letras.
 
 Ferramentas utilizadas: Jupyter notebook (python), Anaconda Prompt, SKLearn, Numpy, Tensorflow.
 
