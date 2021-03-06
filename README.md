@@ -25,4 +25,8 @@ Através de Machine Learning, utilizando a bibloteca sklearn, é treinado um mod
 
 ![image](https://user-images.githubusercontent.com/55901438/110074551-2a99ff80-7d60-11eb-987c-3cd75576f749.png)
 
+# Quinto Passo: Identificação das letras
+Com o modelo (arquvo .hdf5) treinado, um novo programa separa os 6 caracteres por posição, assim como o primeiro passo, e passa por cada um desses caracteres tentando identifica-los e classifica-los. O caractere identificado é printado no canto inferior esquerdo de cada divisão, conforme imagem abaixo.
+
+![image](https://user-images.githubusercontent.com/55901438/110194349-e1f14d80-7e16-11eb-807f-733d89d81c50.png)
 
